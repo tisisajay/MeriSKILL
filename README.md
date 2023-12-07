@@ -12,6 +12,19 @@ Throughout this internship, I will have the chance to:
 - Actively contribute to MeriSKILL's data-driven initiatives, making a real impact on projects.
 - Learn from industry professionals and experts in the field of data analysis.
 
+## Projects Overview
+
+### 1. Sales Analysis
+   - Dive deep into sales data, extracting valuable insights to enhance strategic decision-making.
+   
+### 2. Diabetic Patients
+   - Explore the intricacies of diabetic patient data to identify trends and patterns that can aid in improving healthcare outcomes.
+
+### 3. HR Analytics
+   - Delve into the world of human resources, focusing on data analysis to optimize talent management and organizational performance.
+
+These projects, tailored for aspiring data analysts, offer a choice of analytical tools, including Power BI, SQL, or Tableau, to facilitate the extraction of critical insights. Through meticulous analysis and a keen understanding of the data, these projects seek to address pressing questions and uncover meaningful conclusions.
+
 ## Benefits of the Internship
 
 Upon successful completion of the internship, I will receive:
